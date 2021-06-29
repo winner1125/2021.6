@@ -18,6 +18,12 @@
 }
 .box_3 {
 }
+.ellipse {
+}
+.placeholder {
+}
+.button {
+}
 .primary_button {
   color:#FFFFFF;
 }
@@ -122,5 +128,7 @@
 .line {
 }
 .flow_shape {
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
